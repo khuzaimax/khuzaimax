@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khuzaimax](https://github.com/khuzaimax)
 
-- 💬 Ask me about **Web Design**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **khuzaimaumar3333@gmail.com**
 
-- ⚡ Fun fact **I like reading books**
+- ⚡ Fun fact **I like reading Books!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
